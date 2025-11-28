@@ -1,0 +1,40 @@
+#TaskBody {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: start;
+  align-items: baseline;
+   
+ 
+}
+ 
+.Task {
+  margin-top: 1%;
+  width: 100%;
+  max-width: 100%;
+  border: 2px solid rgb(50, 87, 56);
+  border-radius: 15px;
+  background-color: rgb(222, 241, 234);
+  font-size: larger;
+}
+ 
+.TaskContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 45vw;
+  overflow-wrap: break-word;
+ 
+}
+ 
+.TaskQuestion {
+  padding-left: 2%;
+}
+ 
+.TaskStatus {
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.TaskStatus :hover{
+    background-color: rgb(210, 112, 131);
+}
