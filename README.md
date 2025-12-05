@@ -19,7 +19,7 @@ Jeg kan ikke så mye React, så dette prosjektet var en måte å prøve det ut p
 - JavaScript  
 - Litt CSS for enkel styling
 
--  **Last ned eller klon prosjektet**
+-  ##Last ned eller klon prosjektet
 -  
    git clone https://github.com/Tahaullah123/todo-list
 
