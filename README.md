@@ -4,7 +4,7 @@ Dette er en veldig enkel todo-liste laget med React. Du kan skrive inn oppgaver,
 
 ## Hvorfor jeg laget prosjektet
 
-Jeg kan ikke så mye React, så dette prosjektet var en måte å prøve det ut på en enkel måte. Jeg ville forstå hvordan man lager komponenter, hvordan man lagrer data i state, og hvordan man oppdaterer ting på skjermen.
+Jeg kan ikke så mye React, så dette prosjektet var en måte å prøve det ut på en enkel måte. Jeg ville forstå hvordan man lager komponenter, hvordan man lagrer data i state, og hvordan man oppdaterer ting på skjermen. jeg synes at prosjektet var veldig vanskelig, hovedsakelig fordi jeg ikke skjønner hvordan jeg skal bruke de forskjellige funksjonene react har. jeg mener personlig at prosjektet hadde vært bedre om vi hadde lært react ved hjelp av små oppgaver før todo-list oppgaven, slik at vi ikke bare ble kasta inn i prosjektet.
 
 ## Hva appen kan
 
@@ -18,3 +18,15 @@ Jeg kan ikke så mye React, så dette prosjektet var en måte å prøve det ut p
 - React  
 - JavaScript  
 - Litt CSS for enkel styling
+
+-  **Last ned eller klon prosjektet**
+-  
+   git clone https://github.com/Tahaullah123/todo-list
+
+ - cd todo-list
+ -  npm install
+ -  npm start
+ -  Der etter gå til: http://localhost:3000
+
+
+
